@@ -1,6 +1,8 @@
 curryClass
 ==========
 
+[![Build Status](https://travis-ci.org/sminnee/curry-class.svg?branch=master)](https://travis-ci.org/sminnee/curry-class)
+
 This package provides function currying for a class constructor.
 
 Here's a simple example:
